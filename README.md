@@ -6,6 +6,7 @@ My name is Antonio, a 24 years old Web Developer from Italy.
 Here are some ideas to get you started:
 
 **- 🔭 I’m currently working on ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPacifico&layout=compact&theme=radical)](https://github.com/AntonioPacifico/)
 -->
 
 
@@ -30,5 +31,5 @@ Here are some ideas to get you started:
 
 <br>
 <a href="">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPacifico&layout=compact&theme=radical)](https://github.com/AntonioPacifico/)
-  </a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPacifico&layout=compact&theme=radical" />
+</a>
