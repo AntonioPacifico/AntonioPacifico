@@ -1,4 +1,4 @@
-#### Hi there, 👋
+### Hi there, 👋
 
 <!--
 **AntonioPacifico/AntonioPacifico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 **- 🔭 I’m currently working on ...
 -->
 
-## my name is Antonio and I`m
+## my name is Antonio
 
 - 🌱 I’m currently learning ReactJS and NextJS
 
