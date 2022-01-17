@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPacifico&layout=compact&theme=radical)](https://github.com/AntonioPacifico/github-readme-stats)
+<a href="">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPacifico&layout=compact&theme=radical)](https://github.com/AntonioPacifico/)
+  </a>
