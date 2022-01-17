@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React and NextJS
 - - ⚡ Fun fact: ...
 ### 📫 How to reach me: 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.google.com"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
