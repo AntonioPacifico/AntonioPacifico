@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJS and NextJS
 
 ## 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/antonio-pacifico-715332137/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-[Tun3r#2361](./) on Discord
+- <a href="https://www.linkedin.com/in/antonio-pacifico-715332137/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+- [Tun3r#2361](./) on Discord
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioPacifico&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPacifico&layout=compact&theme=radical" />
