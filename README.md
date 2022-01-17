@@ -1,5 +1,5 @@
-### Hi there, 👋
-
+## Hey!👋
+My name is Antonio, a 24 years old Web Developer from Italy.
 <!--
 **AntonioPacifico/AntonioPacifico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 **- 🔭 I’m currently working on ...
 -->
 
-## my name is Antonio
 
 - 🌱 I’m currently learning ReactJS and NextJS
 
 ### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/antonio-pacifico-715332137/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+[Tun3r#2361](./) on Discord
 
 <br>
 
